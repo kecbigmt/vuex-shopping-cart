@@ -1,4 +1,6 @@
 # vuex-shopping-cart
+example写経
+ref. https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
 
 ## Project setup
 ```
