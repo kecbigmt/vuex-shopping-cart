@@ -4,6 +4,7 @@
             <a class="navbar-brand">
                 Shopping Cart Example
             </a>
+            <a href="https://github.com/kecbigmt/vuex-shopping-cart">GitHub</a>
         </nav>
         <div class="container">
             <div class="card my-3">
