@@ -1,6 +1,11 @@
 # vuex-shopping-cart
 example写経
+
 ref. https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
+
+## Demo
+
+https://kecbigmt.github.io/vuex-shopping-cart/
 
 ## Project setup
 ```
